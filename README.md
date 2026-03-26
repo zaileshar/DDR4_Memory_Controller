@@ -1,7 +1,15 @@
 # DDR4 Memory Controller
 
-**Status:** 0% Complete 
+**Status:** 100% Complete 
 
-Current progress as of today. Still putting the modules together, and writing tests.
+Project is finished. All modules are implemented and testbenches are passing.
 
 ### Completed Modules:
+- `cdc_fifo.v`
+- `cmd_dec.v`
+- `ref_ctrl.v`
+- `bank_fsm.v`
+- `arbiter.v`
+- `dfi_phy.v`
+- `ddr4_ctrl_top.v`
+- `tb_ddr4.v`
